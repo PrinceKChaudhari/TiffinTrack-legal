@@ -1,0 +1,139 @@
+TiffinTrack Privacy Policy
+
+Last updated: 2026
+
+TiffinTrack is a Telegram-based order management system designed for tiffin services and home food businesses. This Privacy Policy explains how user data is collected, used, and protected when using the bot.
+
+1. Information We Collect
+
+
+
+TiffinTrack collects only the minimum information required for the service to function:
+
+Telegram User ID
+
+Telegram Name and Username (if available)
+
+Customer order responses (Confirm or Cancel)
+
+Menu data created by operators
+
+Order history generated through interactions
+
+Payment status information marked by operators
+
+
+We do not collect passwords, banking details, or sensitive personal information.
+
+2. How We Use Information
+
+
+
+The collected data is used only for operational purposes:
+
+Managing daily menus published by operators
+
+Recording customer order confirmations and cancellations
+
+Generating daily reports for operators
+
+Tracking payment status (paid/unpaid)
+
+Ensuring proper functioning of the bot system
+
+
+We do not use data for advertising, profiling, or marketing.
+
+3. Data Storage
+
+
+
+All data is stored in a local JSON-based storage system controlled by the bot deployment.
+
+No external database services are used
+
+No third-party analytics tools are involved
+
+Data remains within the bot’s hosting environment
+
+
+Each operator’s data is logically separated inside the system.
+
+4. Data Sharing
+
+
+
+We do not sell, rent, or share user data with any third parties.
+
+Data is only accessible to:
+
+The operator managing the tiffin service
+
+The customer interacting through Telegram
+
+
+No external organization has access to stored data.
+
+5. Data Security
+
+
+
+We use basic technical measures to protect data:
+
+Atomic file writes to prevent corruption
+
+Event logging for tracking changes
+
+Locking mechanisms to avoid concurrent write issues
+
+Recovery system for corrupted data states
+
+
+However, no system is completely secure.
+
+6. User Rights
+
+
+
+Users may:
+
+Stop using the service at any time
+
+Request removal of their data through the operator
+
+Avoid interacting with the bot if they disagree with this policy
+
+
+Operators control customer data within their instance.
+
+7. Third-Party Services
+
+
+
+TiffinTrack operates inside Telegram.
+
+We follow Telegram’s infrastructure and policies.
+
+We do not use third-party advertising or analytics services.
+
+8. Children’s Privacy
+
+
+
+TiffinTrack is not intended for independent use by children under 13 years of age without supervision.
+
+We do not knowingly collect data from children.
+
+9. Changes to This Policy
+
+
+
+This policy may be updated in the future.
+
+Updates will be reflected by changing the “Last updated” date.
+
+10. Contact
+
+
+
+For any privacy concerns, contact the bot operator via Telegram.
